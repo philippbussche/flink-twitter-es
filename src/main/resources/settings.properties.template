@@ -1,0 +1,5 @@
+twitter-source.consumerKey=aaa
+twitter-source.consumerSecret=bbb
+twitter-source.token=ccc
+twitter-source.tokenSecret=ddd
+twitter-source.twitterIds=12345,56789

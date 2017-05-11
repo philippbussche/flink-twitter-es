@@ -12,8 +12,10 @@
 hs_err_pid*
 
 # exclude the actual properties files
-*.properties
+settings.properties
 
 # exclude idea stuff
 *.iml
 .idea/
+
+target/
